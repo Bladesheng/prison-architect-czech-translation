@@ -3610,15 +3610,15 @@ mutator_tooltip_permanentnight          Tady slunce nikdy nevychází. Vězení 
 mutator_tooltip_spreadingtrees          Stromy se mohou šířit a porostou mnohem rychleji než obyčejně.
 mutator_tooltip_contrabanddetectors     Detektory kovu zachytí kontraband ve všech podobách, ale také spotřebují pětkrát více energie.
 mutator_tooltip_superguards             Stráže jsou nejlepší ze všech a neflákají se. Jsou větší, silnější, rychlejší a ostražitější.
-mutator_tooltip_oldschoolintake         Jednou za čas přijede do vězení autobus plný vězňů každý den, ať je chceš, nebo ne. Vítej zpátky ve starých dobrých časech! Každý den dostaneš autobus plný vězňů, ať pro ně máš prostor nebo ne.
+mutator_tooltip_oldschoolintake         Vítej zpátky ve starých dobrých časech! Každý den dostaneš autobus plný vězňů, ať pro ně máš prostor nebo ne.
 mutator_tooltip_noclipstaff             Tvoji zaměstnanci umí procházet zdí.
 
 mutator_title_extrachallenge            Extra výzva
-mutator_title_extrachallenge_tooltip    Tyto mutátory ti různými způsoby ztíží život. A někdy značně!
-mutator_title_lightentheload            Odlehčení nákladu
-mutator_title_lightentheload_tooltip    Tyto mutátory usnadní správu vězení nebo nějakým způsobem sníží obtížnost.
+mutator_title_extrachallenge_tooltip    Tyto mutátory ti mohou podstatně ztížit život.
+mutator_title_lightentheload            Snížení obtížnosti
+mutator_title_lightentheload_tooltip    Tyto mutátory usnadní správu vězení, nebo nějakým způsobem sníží obtížnost.
 mutator_title_changetherules            Změna pravidel
-mutator_title_changetherules_tooltip    Tyto mutátory změní některá základní pravidla hry,
+mutator_title_changetherules_tooltip    Tyto mutátory změní některá základní pravidla hry.
 mutator_title_somethingdifferent        Něco... jiného
 mutator_title_somethingdifferent_tooltip    Tohle jsou divné věci. Možná nedávají smysl, ale život pak bude zajímavější.
 
